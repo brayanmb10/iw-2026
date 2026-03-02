@@ -6,5 +6,6 @@ alert ("voce cancelou a ação");
 
 }
 
-
+let nome = prompt ("qual é o seu nome");
+alert ("ola, " + nome + "!");
 
